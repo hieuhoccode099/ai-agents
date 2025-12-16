@@ -1,0 +1,1 @@
+{"version":3,"file":"format-response.d.ts","sourceRoot":"","sources":["../../../../agents/transaction/utils/format-response.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAE3C,eAAO,MAAM,yBAAyB,GACpC,aAAa,eAAe,KAC3B;IACD,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,MAAM,EAAE,MAAM,CAAC;IACf,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;CAKhB,CAAC"}

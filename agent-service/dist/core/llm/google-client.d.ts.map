@@ -1,0 +1,1 @@
+{"version":3,"file":"google-client.d.ts","sourceRoot":"","sources":["../../../core/llm/google-client.ts"],"names":[],"mappings":"AAIA,KAAK,SAAS,GAAG;IAAE,MAAM,EAAE,CAAC,KAAK,EAAE,MAAM,KAAK,OAAO,CAAC,OAAO,CAAC,CAAA;CAAE,CAAC;AAEjE,qBAAa,eAAe;IAC1B,OAAO,CAAC,GAAG,CAAY;;IAWvB,MAAM,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC;IAIxC,WAAW,IAAI,SAAS;CAGzB"}
